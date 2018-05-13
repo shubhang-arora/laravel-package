@@ -1,0 +1,14 @@
+{
+    "name": "shubhangarora/relation-soft-delete",
+    "description": "Soft deleting pivot relations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shubhang-arora",
+            "email": "sa287@snu.edu.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
